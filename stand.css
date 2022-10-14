@@ -10,7 +10,7 @@
     color: lightsalmon;
     padding: 10px;
     align-items: center;
-    justify-content: center;
+   
     grid-auto-flow: column;
     grid-auto-rows: auto;
     
